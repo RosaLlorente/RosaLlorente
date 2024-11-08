@@ -38,15 +38,6 @@
 </div>
 
 ###
-<h2 align="left">𝓥𝓲𝓼𝓽𝓪𝓼 𝓭𝓮𝓵 𝓹𝓮𝓻𝓯𝓲𝓵 / 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 <br> 𝓿𝓲𝓮𝔀𝓼 :</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RosaLlorente/count.svg?"  />
-</div>
-
-###
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/e7/7a/1e/e77a1e25a95370f4f625c115f1622378.gif"  />
