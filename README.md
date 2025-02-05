@@ -37,7 +37,6 @@
 
 <h3 align="left">𝐂𝐨𝐧é𝐜𝐭𝐚𝐭𝐞 𝐜𝐨𝐧𝐦𝐢𝐠𝐨 / 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:</h3>
 <p align="left">
-  https://www.linkedin.com/in/rosamlm/
 <a href="https://www.linkedin.com/in/rosamlm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rosamlm" height="30" width="40" /></a>
 </p>
 
