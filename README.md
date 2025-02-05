@@ -35,9 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">𝐂𝐨𝐧é𝐜𝐭𝐚𝐭𝐞 𝐜𝐨𝐧𝐦𝐢𝐠𝐨 / 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rosamlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rosamlm" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/www.linkedin.com/in/rosamlm](https://www.linkedin.com/in/rosamlm/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rosamlm" height="30" width="40" /></a>
 </p>
 
 <div align="center">
