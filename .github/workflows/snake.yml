@@ -5,26 +5,26 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se ejecuta cada 24 horas
-  workflow_dispatch:   # Permite ejecutarlo manualmente para probar
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Paso 1: Descargar el repositorio (indispensable)
-      - uses: actions/checkout@v4
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
 
-      # Paso 2: Generar la serpiente
-      - uses: Platane/snk@v3
+      - name: Generar la serpiente
+        uses: Platane/snk@v3
         with:
           github_user_name: RosaLlorente
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Paso 3: Subir los archivos a la rama 'output'
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Desplegar a la rama output
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
