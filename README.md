@@ -13,9 +13,10 @@
 <p align="center">
 Soy una joven emprendedora con muchas ganas de aprender y aportar valor a la comunidad tecnológica.  
 Me apasiona el desarrollo web y crear proyectos que marquen la diferencia.  
+</p>
 
 <br><br>
-
+<p align="center">
 I am a young entrepreneur eager to learn and contribute to the tech community.  
 I love web development and building meaningful projects.
 </p>
@@ -33,13 +34,21 @@ I love web development and building meaningful projects.
 ## 📊 Estadísticas / Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RosaLlorente&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaLlorente&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RosaLlorente&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RosaLlorente&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
 
-## 🐍 Snake eating my contributions
+## 🐍 Actividad / Activity
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RosaLlorente&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🐍 La serpiente se come mis contribuciones / Snake eating my contributions
 
 <div align="center">
 <img src="https://github.com/RosaLlorente/RosaLlorente/blob/output/github-contribution-grid-snake.svg" />
@@ -47,7 +56,7 @@ I love web development and building meaningful projects.
 
 ---
 
-## 🎶 Mis canciones favoritas
+## 🎶 Mis canciones favoritas / My favorite songs
 
 <div align="center">
 
@@ -58,7 +67,7 @@ I love web development and building meaningful projects.
 </div>
 
 <p align="center">
-🎧 Click en el disco para escuchar mi playlist
+🎧 Click en el disco para escuchar mi playlist / Click on the vinyl to listen to my playlist
 </p>
 
 ---
@@ -73,7 +82,7 @@ I love web development and building meaningful projects.
 
 ---
 
-## 👀 Visitas al perfil
+## 👀 Visitas al perfil / Profile views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=RosaLlorente&label=Profile%20views&color=ff69b4&style=for-the-badge"/>
@@ -83,4 +92,7 @@ I love web development and building meaningful projects.
 
 <p align="center">
 ✨ <em>"El aprendizaje constante es la clave del éxito"</em> ✨
+</p>
+<p align="center">
+✨ <em>"Constant learning is the key to success"</em> ✨
 </p>
