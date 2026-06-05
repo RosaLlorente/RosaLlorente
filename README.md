@@ -1,9 +1,9 @@
 <h1 align="center">✨ ¡Bienvenido/a a mi perfil! / Welcome to my profile ✨</h1>
 
 <p align="center">
-💻 <strong>Desarrolladora en crecimiento</strong> <br>
-🚀 Apasionada por la tecnología y la innovación <br>
-🌱 Siempre aprendiendo algo nuevo
+💻 <strong>Desarrolladora en crecimiento/Up-and-coming developer</strong> <br>
+🚀 Apasionada por la tecnología y la innovación/Passionate about technology and innovation <br>
+🌱 Siempre aprendiendo algo nuevo/Always learning something new
 </p>
 
 ---
